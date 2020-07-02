@@ -7,3 +7,10 @@ Studying most efctive methods of stock price prediction comparing diferent types
 - LR ( Linear Regressor)
 
 Trying to predict stock prices hasn't shown an efficient method for the long run. Although, for the short-term, is it possible for the machine to beat the market?
+
+
+Feel free to download all stocks data and notebooks. Any suggestions are welcome.
+
+---
+
+A project inspired by [Computer Science YouTube Channel](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
