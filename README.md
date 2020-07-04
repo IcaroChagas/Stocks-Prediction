@@ -9,7 +9,7 @@ Studying most efctive methods of stock price prediction comparing diferent types
 Trying to predict stock prices hasn't shown an efficient method for the long run. Although, for the short-term, is it possible for the machine to beat the market?
 
 
-This project is just at the beggining. Still trying to understand the best Machine Learning method for prediction. 
+This project is just at the beginning. Still trying to understand the best Machine Learning method for prediction. 
 
 Feel free to download all stocks data and notebooks. Any suggestions are welcome.
 
