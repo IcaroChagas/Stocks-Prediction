@@ -1,4 +1,7 @@
 # Stocks Prediction
+
+![stocks](https://user-images.githubusercontent.com/64924345/86549614-80d74a00-bf16-11ea-98ea-35946a651422.jpeg)
+
 Using Machine-Learning to predict stocks price in the short term and compare with their actual progress
 
 Studying most efctive methods of stock price prediction comparing diferent types of for Machine Learning models:
