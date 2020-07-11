@@ -19,3 +19,5 @@ Feel free to download all stocks data and notebooks. Any suggestions are welcome
 ---
 
 A project inspired by [Computer Science YouTube Channel](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+
+For more information about LSTM for Stock Prediction check this [tutorial](https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_source=adwords_ppc&utm_campaignid=10267161064&utm_adgroupid=102842301792&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377092&utm_targetid=dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1001552&gclid=CjwKCAjwxev3BRBBEiwAiB_PWIL2Y54jNswJt7E7MZjtN_RjrSwlpvRdGKecI24pt5fczGGS026fwRoCXGEQAvD_BwE)
